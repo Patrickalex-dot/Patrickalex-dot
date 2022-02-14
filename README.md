@@ -15,10 +15,10 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- 
+  <img align="right" alt="patrick-pic" height = "250" width="250" src="https://media.discordapp.net/attachments/813811359493259274/942871007218237530/ezgif.com-gif-maker.gif?width=492&height=492">
  
 </div>
-  ##
+  
   
   <div> 
   <a href="https://instagram.com/patricknichelatti" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
