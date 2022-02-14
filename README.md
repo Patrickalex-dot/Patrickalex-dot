@@ -18,7 +18,7 @@
   <img align="right" alt="patrick-pic" height = "250" width="250" src="https://media.discordapp.net/attachments/813811359493259274/942871007218237530/ezgif.com-gif-maker.gif?width=492&height=492">
  
 </div>
-  
+  <br>
   
   <div> 
   <a href="https://instagram.com/patricknichelatti" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
