@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Patrick A. Nichelatti
 
 - 🔭 Estou trabalhando atualmente com suporte ao usuario.  
-- 🌱 Estudando HTML,CSS,Javascript.
+- 🌱 Estudando HTML,CSS,Javascript e c#.
 - 📫 meu email para contato é: Palexandre@live.com.
 - ⚡ curiosidade: comecei na area por incentivo do meu tio.
 - 🦾 cursando analise e desenvolvimento de sistemas na univali.
