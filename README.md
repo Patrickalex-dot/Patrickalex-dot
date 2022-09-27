@@ -12,6 +12,7 @@
 - ⚡ curiosidade: comecei na area por incentivo do meu tio.
   <br>
 - 🦾 cursando analise e desenvolvimento de sistemas na univali.
+  <br>
 </div>
 
 <div align="center">
