@@ -14,6 +14,7 @@
 - 🦾 cursando analise e desenvolvimento de sistemas na univali.
   <br>
 </div>
+  <br>
 
 <div align="center">
   <a href="https://github.com/Patrickalex-dot">
