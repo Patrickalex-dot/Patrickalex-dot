@@ -39,7 +39,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 **Suporte ao úsuario** \
 [**Prefeitura BC**](https://www.bc.sc.gov.br/) • Estágio \
 Linguagens & Tecnologias: `HTML`, `CSS`,`JavaScript`.
-
+<br>
 Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/patrick-alexandre-nichelatti-8b0b88199/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
 
   </div>
