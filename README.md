@@ -2,7 +2,7 @@
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Olá,+seja+bem-vindo(a)!+%F0%9F%91%8B;Meu+nome+é+Patrick+Alexandre;Problem+Solver;Freelancer;Open-Source+Enthusiast" alt="Headline" />
     </div>
 <div>
-    <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="300px" align="right" alt="Computador iuriCode">
+    <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="150px" align="right" alt="Computador iuriCode">
 - 🔭 Estou trabalhando atualmente com suporte ao usuario.
   <br>
 - 🌱 Estudando HTML,CSS,Javascript e c#.
@@ -16,8 +16,8 @@
 
 <div align="center">
   <a href="https://github.com/Patrickalex-dot">
-  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=Patrickalex-dot&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patrickalex-dot&layout=compact&langs_count=7&theme=outrun"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Patrickalex-dot&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patrickalex-dot&layout=compact&langs_count=7&theme=outrun"/>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
