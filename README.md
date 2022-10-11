@@ -1,5 +1,5 @@
 <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Olá,+seja+bem-vindo(a)!+%F0%9F%91%8B;Meu+nome+é+Patrick+Alexandre;Problem+Solver;Freelancer;Open-Source+Enthusiast" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=#993399&size=32&center=true&vCenter=true&width=600&height=50&lines=Olá,+seja+bem-vindo(a)!+%F0%9F%91%8B;Meu+nome+é+Patrick+Alexandre;Problem+Solver;Freelancer;Open-Source+Enthusiast" alt="Headline" />
     </div>
 <div>
     <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="250px" max-width="250px" width="200px" align="right" alt="Computador iuriCode">
