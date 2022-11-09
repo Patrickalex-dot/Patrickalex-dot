@@ -42,6 +42,14 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 [**Prefeitura BC**](https://www.bc.sc.gov.br/) • Estágio \
 Linguagens & Tecnologias: `HTML`, `CSS`,`JavaScript`.
 <br>
+<br>
+[<img align="left" height="80px" width="80px" alt="warpnet" src="https://s3.amazonaws.com//beta-img.b2bstack.net/uploads/production/provider/image/9/senior-sistemas-logo.png"/>](https://www.senior.com.br/)
+
+**Dev Estágiario** \
+[**Senior sistemas**](https://www.senior.com.br/) • Estágio \
+Linguagens & Tecnologias: `Java`.
+<br>
+<br>
 Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/patrick-alexandre-nichelatti-8b0b88199/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
 
   </div>
