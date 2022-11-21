@@ -46,9 +46,9 @@ Linguagens & Tecnologias: `HTML`, `CSS`,`JavaScript`.
 <br>
 [<img align="left" height="80px" width="80px" alt="warpnet" src="https://s3.amazonaws.com//beta-img.b2bstack.net/uploads/production/provider/image/9/senior-sistemas-logo.png"/>](https://www.senior.com.br/)
 
-**Dev Estágiario** \
+**Estágiario Manutenção I ERP** \
 [**Senior sistemas**](https://www.senior.com.br/) • Estágio \
-Linguagens & Tecnologias: `Java`.
+Linguagens & Tecnologias: `Java`,`Delphi`,`SQL Server`.
 <br>
 <br>
 Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/patrick-alexandre-nichelatti-8b0b88199/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
