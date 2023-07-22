@@ -51,6 +51,13 @@ Linguagens & Tecnologias: `HTML`, `CSS`,`JavaScript`.
 Linguagens & Tecnologias: `Java`,`Delphi`,`SQL Server`.
 <br>
 <br>
+[<img align="left" height="80px" width="80px" alt="warpnet" src="https://ebdicorp.com.br/wp-content/uploads/2020/02/benner-logo.png"/>](https://www.benner.com.br/)
+
+**Desenvolvedor Aprendiz** \
+[**Benner**](https://www.benner.com.br/) • Dev Aprendiz \
+Linguagens & Tecnologias: `C#`,`Selenium`,`SQL Server`.
+<br>
+<br>
 Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/patrick-alexandre-nichelatti-8b0b88199/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
 
   </div>
